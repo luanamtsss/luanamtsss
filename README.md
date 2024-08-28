@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ attending technical high school<br>📚 learning English</p>
+<p align="left">✨ attending technical high school at FIAP <br>📚 learning English</p>
 
 ###
 
